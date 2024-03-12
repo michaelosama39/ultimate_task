@@ -1,0 +1,18 @@
+{
+  "fill_field": "هذا الحقل مطلوب",
+  "welcome_back": "مرحبًا بعودتك!",
+  "login_desc": "قم بتسجيل الدخول مرة أخرى إلى حسابك",
+  "user_id": "رقم المستخدم",
+  "password": "كلمة المرور",
+  "show_more": "أظهر المزيد",
+  "log_in": "تسجيل الدخول",
+  "others_status": "اخريين",
+  "order_details": "تفاصيل الطلب",
+  "status": "حالة",
+  "total_price": "السعر الكلي",
+  "date": "تاريخ",
+  "new_status": "جديد",
+  "delivering_status": "تسليم",
+  "returned_status": "مرتجع",
+  "le": "جنيه"
+}

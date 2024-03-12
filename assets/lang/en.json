@@ -1,0 +1,18 @@
+{
+  "fill_field": "This field is required",
+  "welcome_back": "Welcome Back!",
+  "login_desc": "Log back into your account",
+  "user_id": "User ID",
+  "password": "Password",
+  "show_more": "Show More",
+  "log_in": "Log in",
+  "others_status": "Others",
+  "order_details": "Order Details",
+  "status": "Status",
+  "total_price": "Total price",
+  "date": "Date",
+  "new_status": "New",
+  "delivering_status": "Delivering",
+  "returned_status": "Returned",
+  "le": "LE"
+}
